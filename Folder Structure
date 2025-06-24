@@ -1,0 +1,10 @@
+text_classifier_spam/
+├── data/spam.csv                    # SMS Spam Collection dataset
+├── train_model.py                   # Model training and saving
+├── predict.py                       # CLI prediction
+├── app.py                           # Streamlit UI
+├── model.pkl                        # Saved model
+├── vectorizer.pkl                   # TF-IDF vectorizer
+├── requirements.txt
+├── README.md
+└── .gitignore
